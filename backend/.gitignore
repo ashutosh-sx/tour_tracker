@@ -1,2 +1,11 @@
-# Node modules
+# Dependency directories
 node_modules/
+
+# Environment variables
+.env
+
+# Other common files to ignore
+.DS_Store
+npm-debug.log
+yarn-error.log
+
