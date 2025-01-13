@@ -30,5 +30,8 @@
            hover:bg-primary hover:text-white active:bg-primary/90 transition-all duration-300 
            hover:shadow-md;
   }
+  .icon-btn{
+    @apply text-[22px] text-slate-300 cursor-pointer hover:text-red-500;
+  }
 }
 
